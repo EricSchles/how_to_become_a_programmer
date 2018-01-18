@@ -38,7 +38,7 @@ Then I'd recommend learning Javascript, HTML and CSS.  I don't know a good set o
 
 After that, I'd recommend learning heroku for deployment and finally Amazon Web Services.
 
-I'd say you are ready for a junior role as a developer when you finish 2b.  I'd say you are ready for a senior role when you finish 4.  And you are ready for any role once you understand every concept mentioned here (within software and web development).
+I'd say you are ready for a junior role as a developer when you finish 2b.  I'd say you are ready for a senior role when you finish 4 and have 5 years experience.  And you are ready for any role once you understand every concept mentioned here (within software and web development).
 
 I'd also recommend charting your progress on github.  This way you can show people what you are learning as you learn.  I'd also recommend starting a programming blog so you can write about what you learn.  This will also help people understand how you write.
 
